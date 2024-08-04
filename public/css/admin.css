@@ -1,0 +1,16 @@
+.add-book-btn{
+    position: relative;
+    right: 105px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e7e7e7;
+}
+.header .title {
+    font-size: 24px;
+}
